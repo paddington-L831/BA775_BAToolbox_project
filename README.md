@@ -1,4 +1,4 @@
-# Business Analytics Toolbox Project-A08-
+# Business Analytics Toolbox Project-A08-Understanding-Wine-Preferences-From-Consumer-Ratings
 
 All team members: Yuanhao Li, Bruce Liu, Hamza Tariq, Daksh Raichura, Sanskruti Pradeep Pawar
 
