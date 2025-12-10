@@ -1,4 +1,4 @@
-README
+Business Analytics Toolbox Project
 
 All team members: Yuanhao Li, Bruce Liu, Hamza Tariq, Daksh Raichura, Sanskruti Pradeep Pawar
 
